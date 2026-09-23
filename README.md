@@ -181,14 +181,14 @@
 
 <p align="center">
 
-  <a href="YOUR_FACEBOOK_LINK">
+  <a href="https://www.facebook.com/share/1BudtdNE4B/">
     <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
 
-  <a href="YOUR_DISCORD_LINK">
+  <a href="https://discord.com/users/1422100963833024553">
     <img
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
