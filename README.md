@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="<img width="2170" height="725" alt="Limon Islam GitHub Banner" src="https://github.com/user-attachments/assets/e88e8581-0245-4ce7-a74d-6847f8ef3945" />"
+    src=<img width="2170" height="725" alt="Limon Islam GitHub Banner" src="https://github.com/user-attachments/assets/e88e8581-0245-4ce7-a74d-6847f8ef3945" />
     alt="Limon Islam GitHub Banner"
     width="100%"
   />
