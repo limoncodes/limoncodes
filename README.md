@@ -149,28 +149,14 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📈 GitHub Contributions
+## 🐍 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true&area=true"
-    alt="Limon Islam GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/limoncodes/limoncodes/output/github-snake.svg"
+    alt="GitHub Contributions"
     width="100%"
   />
-</p>
-
-
-<!-- ===================== STREAK ===================== -->
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=limoncodes&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
 </p>
 
 
