@@ -164,15 +164,16 @@
 <!-- ===================== CONTRIBUTION ===================== -->
 <!-- ===================== GITHUB STATS ===================== -->
 
+<!-- ===================== GITHUB STATS ===================== -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=limoncodes&theme=tokyonight"
     alt="Limon Islam GitHub Stats"
   />
 </p>
-
 <!-- ===================== STREAK ===================== -->
 
 ## 🔥 GitHub Streak
