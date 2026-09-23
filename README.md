@@ -1,4 +1,5 @@
 <!-- ===================== BANNER ===================== -->
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/e88e8581-0245-4ce7-a74d-6847f8ef3945"
@@ -6,6 +7,7 @@
     width="100%"
   />
 </p>
+
 
 <!-- ===================== ANIMATED INTRO ===================== -->
 
@@ -44,7 +46,11 @@
 <p align="left">
 
   <!-- GitHub -->
-  <a href="https://github.com/limoncodes" target="_blank">
+  <a
+    href="https://github.com/limoncodes"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://skillicons.dev/icons?i=github"
       width="45"
@@ -54,7 +60,11 @@
   </a>
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/share/1BudtdNE4B/" target="_blank">
+  <a
+    href="https://www.facebook.com/share/1BudtdNE4B/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://cdn.simpleicons.org/facebook/1877F2"
       width="45"
@@ -64,7 +74,11 @@
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/1422100963833024553" target="_blank">
+  <a
+    href="https://discord.com/users/1422100963833024553"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://skillicons.dev/icons?i=discord"
       width="45"
@@ -148,7 +162,7 @@
 - 🎨 Modern Responsive UI
 
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
 
 ## 🐍 GitHub Contributions
 
@@ -161,9 +175,6 @@
 </p>
 
 
-<!-- ===================== CONTRIBUTION ===================== -->
-<!-- ===================== GITHUB STATS ===================== -->
-
 <!-- ===================== GITHUB STATS ===================== -->
 
 ## 📊 GitHub Stats
@@ -175,27 +186,40 @@
   />
 </p>
 
+
 <!-- ===================== CONTACT ===================== -->
 
 ## 📫 Contact Me
 
 <p align="center">
 
-  <a href="https://www.facebook.com/share/1BudtdNE4B/">
+  <a
+    href="https://www.facebook.com/share/1BudtdNE4B/"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
 
-  <a href="https://discord.com/users/1422100963833024553">
+  <a
+    href="https://discord.com/users/1422100963833024553"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord"
     />
   </a>
 
-  <a href="https://github.com/limoncodes">
+  <a
+    href="https://github.com/limoncodes"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
