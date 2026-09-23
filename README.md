@@ -54,7 +54,7 @@
   </a>
 
   <!-- Facebook -->
-  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+  <a href="https://www.facebook.com/share/1BudtdNE4B/" target="_blank">
     <img
       src="https://cdn.simpleicons.org/facebook/1877F2"
       width="45"
@@ -64,7 +64,7 @@
   </a>
 
   <!-- Discord -->
-  <a href="YOUR_DISCORD_LINK" target="_blank">
+  <a href="https://discord.com/users/1422100963833024553" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=discord"
       width="45"
