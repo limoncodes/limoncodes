@@ -6,6 +6,7 @@
     width="100%"
   />
 </p>
+
 <!-- ===================== ANIMATED INTRO ===================== -->
 
 <h1 align="center">
@@ -183,6 +184,8 @@
     alt="Limon Islam GitHub Streak"
   />
 </p>
+
+
 <!-- ===================== CONTACT ===================== -->
 
 ## 📫 Contact Me
