@@ -1,4 +1,5 @@
 <!-- ===================== BANNER ===================== -->
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/e88e8581-0245-4ce7-a74d-6847f8ef3945"
@@ -6,6 +7,8 @@
     width="100%"
   />
 </p>
+
+
 <!-- ===================== ANIMATED INTRO ===================== -->
 
 <h1 align="center">
@@ -149,18 +152,19 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📈 GitHub Contributions
+## 📊 GitHub Stats
 
 <p align="center">
+
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true&area=true"
-    alt="Limon Islam GitHub Activity Graph"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Limon's GitHub Stats"
   />
+
 </p>
 
 
-<!-- ===================== STREAK ===================== -->
+<!-- ===================== GITHUB STREAK ===================== -->
 
 ## 🔥 GitHub Streak
 
@@ -168,21 +172,41 @@
 
   <img
     src="https://streak-stats.demolab.com?user=limoncodes&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Limon's GitHub Streak"
   />
 
 </p>
 
 
-<!-- ===================== CONTRIBUTION ===================== -->
-## 📈 GitHub Contributions
+<!-- ===================== GITHUB CONTRIBUTIONS ===================== -->
+
+## 🐍 GitHub Contributions
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Limon Islam GitHub Stats"
-  />
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/limoncodes/limoncodes/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/limoncodes/limoncodes/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/limoncodes/limoncodes/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+
+  </picture>
+
 </p>
+
+
 <!-- ===================== CONTACT ===================== -->
 
 ## 📫 Contact Me
