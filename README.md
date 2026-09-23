@@ -176,29 +176,14 @@
 
 <!-- ===================== CONTRIBUTION ===================== -->
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=limoncodes&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
 ## 📈 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true"
-    alt="Limon's GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true&area=true"
+    alt="Limon Islam GitHub Activity Graph"
   />
 </p>
-
 <!-- ===================== PROFILE VIEWS ===================== -->
 
 ## 👀 Profile Views
