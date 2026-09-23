@@ -175,29 +175,14 @@
 
 
 <!-- ===================== CONTRIBUTION ===================== -->
-
 ## 📈 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true&area=true"
-    alt="Limon Islam GitHub Activity Graph"
+    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Limon Islam GitHub Stats"
   />
 </p>
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-## 👀 Profile Views
-
-<p align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=limoncodes&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-
-</p>
-
-
 <!-- ===================== CONTACT ===================== -->
 
 ## 📫 Contact Me
