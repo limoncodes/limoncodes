@@ -149,22 +149,14 @@
 
 <!-- ===================== GITHUB STATS ===================== -->
 
-## 📊 GitHub Statistics
+## 📈 GitHub Contributions
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=limoncodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="180"
-    alt="Limon's GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=limoncodes&theme=tokyo-night&hide_border=true&area=true"
+    alt="Limon Islam GitHub Activity Graph"
+    width="100%"
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=limoncodes&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-
 </p>
 
 
